@@ -7,10 +7,10 @@ public class JavaApplication58 {
     public static void main(String[] args) {
         // muokkaa tarinaa tehtävänannon mukaisesti
         
-        String henkilo = "Hattivatti";
-        String paikka = "hattivatistan";
-        String asu = "kaapu";
-        String valine = "räpylä";
+        String henkilo = "Hattivatti ja Joku Muu Tuttu";
+        String paikka = "Hattivatistan naapurin";
+        String asu = "kaapu ja keppi";
+        String valine = "räpylä ja maila";
         
         System.out.println("Olipa kerran " + henkilo + ", joka asui paikassa ");
         System.out.println("nimeltä " + paikka + ". Eräänä päivänä tepastellessaan");
